@@ -1,0 +1,18 @@
+export const categoryIconMap = {
+  "laptops-desktops": "monitor",
+  "hardware-peripherals": "gear",
+  "printers-copiers": "download",
+  networking: "compass",
+  "cctv-surveillance": "expand",
+  cybersecurity: "check",
+  "cloud-ai": "spark",
+  "mobile-accessories": "phone",
+  "software-services": "chat",
+  gaming: "robot",
+  "office-automation": "building",
+  "interactive-panels": "monitor",
+  "iot-smart-home": "bolt",
+  refurbished: "tool",
+  "e-governance": "users",
+  "education-careers": "cap",
+};

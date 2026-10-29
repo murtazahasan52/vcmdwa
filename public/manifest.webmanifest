@@ -1,0 +1,17 @@
+{
+  "name": "COMP-EX 2027 Admin",
+  "short_name": "COMP-EX Admin",
+  "description": "COMP-EX 2027 — admin dashboard",
+  "start_url": "/admin/login",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "/compex-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/compex-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/compex-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/compex-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
